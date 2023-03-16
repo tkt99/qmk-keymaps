@@ -18,7 +18,7 @@
       "KC_8",
       "KC_9",
       "KC_0",
-      "KC_EQL",
+      "KC_CAPS",
       "KC_TAB",
       "KC_Q",
       "KC_W",
@@ -30,7 +30,7 @@
       "KC_I",
       "KC_O",
       "KC_P",
-      "KC_MINS",
+      "KC_EQL",
       "KC_LCTL",
       "KC_A",
       "KC_S",
@@ -64,7 +64,7 @@
       "KC_SPC",
       "MO(2)",
       "KC_QUOT",
-      "KC_CAPS"
+      "KC_MUTE"
     ],
     [
       "KC_F1",
